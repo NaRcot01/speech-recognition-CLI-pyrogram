@@ -35,3 +35,8 @@ Then run the " speech.py " File.<br>
 Just run the " selfBoT.py " File.<br>
 Then in your telegram application reply  " v2t " to a audio file.<br>
 Congratulations!<br>
+
+## Got Error? ##
+
+if you got this Error : FileNotFoundError: WinError 2 The system cannot find the file specified<br>
+you should install ffmpeg and add it to your PATH. For more info check out this <a href="https://www.wikihow.com/Install-FFmpeg-on-Windows" target="_blank">Link</a> and do the instructions.
