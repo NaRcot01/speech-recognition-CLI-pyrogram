@@ -1,0 +1,4 @@
+PyAudio==0.2.12
+pydub==0.25.1
+Pyrogram==2.0.52
+vosk==0.3.43
