@@ -1,5 +1,5 @@
 <h2 align="center">
-Speech recognition for telegram using Vosk library and Pyrogram library
+Speech recognition for telegram using Vosk and Pyrogram
 </h2>
 
 
