@@ -33,7 +33,7 @@ Then run the " speech.py " File.<br>
 ## :clipboard:How to use ##
 
 Just run the " selfBoT.py " File.<br>
-Then in your telegram application reply  " v2t " to a audio file.<br>
+Then in your telegram reply  " v2t " to a audio file.<br>
 Congratulations!<br>
 
 ## :bangbang:Got Error? ##
