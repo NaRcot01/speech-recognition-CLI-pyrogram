@@ -30,7 +30,7 @@ Then Check out the " config.ini " File.<br>
 Put your ogg audio file formated with " test.ogg " name in the " downloads " folder.<br>
 Then run the " speech.py " File.<br>
 
-## How to use ##
+## :clipboard:How to use ##
 
 Just run the " selfBoT.py " File.<br>
 Then in your telegram application reply  " v2t " to a audio file.<br>
