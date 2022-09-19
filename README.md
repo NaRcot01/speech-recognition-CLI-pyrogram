@@ -8,10 +8,10 @@ Speech recognition for telegram using Vosk and Pyrogram
 
 ```bash
 # Clone this project
-$ git clone https://github.com/NaRcot01/speech-recognition-CLI-Pyrogram
+$ git clone https://github.com/NaRcot01/speech-recognition-CLI-pyrogram
 
 # Access
-$ cd speech-recognition-CLI-Pyrogram
+$ cd speech-recognition-CLI-pyrogram
 
 # Install Requirements
 $ pip install -r requirements.txt
